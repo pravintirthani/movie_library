@@ -14,6 +14,7 @@ Client Steps
 Server
 1) Require the wamp/lamp server
 2) Copy the folder of server and paste in www folder
+3) Rest API collections in postman "https://www.getpostman.com/collections/929d455ca1e5b3041d92"
 
 Database
 1) Create database name "movie_lib"
