@@ -31,10 +31,6 @@ module.exports = {
                         use: ['css-loader']
                     }
                 )
-            }, {
-                test: /.scss$/,
-                exclude: [/node_modules/],
-                use: ['to-string-loader', 'css-loader', 'sass-loader']
             },
             {
                 test: /.scss$/,
